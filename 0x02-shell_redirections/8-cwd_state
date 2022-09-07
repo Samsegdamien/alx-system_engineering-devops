@@ -1,18 +1,2 @@
-ls
-
-
-
-
-
-:]
-
-
-
-
-
-
-kjhwhshshnsnsnshshsgfgsggsy.txt
-
-
-~$ clear
-cat ! 
+#!/bin/bash
+ls -la > ls_cwd_content 
